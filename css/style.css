@@ -1,0 +1,10 @@
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+  }
+  
+/* set color for side bar */
+#side-bar {
+    background-color:powderblue;
+}
